@@ -1,0 +1,3 @@
+flask
+bottlenose
+python-amazon-simple-product-api
